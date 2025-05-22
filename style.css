@@ -1,1 +1,21 @@
-style.css
+body {
+  font-family: Arial, sans-serif;
+  background: #0d1117;
+  color: white;
+  text-align: center;
+  padding-top: 100px;
+}
+
+.container {
+  max-width: 500px;
+  margin: auto;
+}
+
+.button {
+  background-color: #2ea44f;
+  color: white;
+  padding: 12px 24px;
+  text-decoration: none;
+  border-radius: 6px;
+  font-size: 18px;
+}
